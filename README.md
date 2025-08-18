@@ -1,17 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on  
+### 🔭 I’m currently working on  
 A shipping platform that enables users to send goods from multiple cities around the world to Libya.  
 
-👯 I’m looking to collaborate on  
+### 👯 I’m looking to collaborate on  
 Developing WordPress themes and plugins using Sage and Bedrock.  
 
-🌱 I’m currently learning  
+### 🌱 I’m currently learning  
 Advanced data structures to strengthen my backend and algorithmic thinking.  
 
-💬 Ask me about  
+### 💬 Ask me about  
 JavaScript, freelance web projects, UI/UX, and WordPress.  
 
-📫 How to reach me  
+### 📫 How to reach me  
 muhammedbaled20@gmail.com
 
 ## 🌐 Socials:
