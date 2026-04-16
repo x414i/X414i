@@ -34,7 +34,6 @@ muhammedbaled20@gmail.com
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=x414i&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=x414i&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img  src="https://nirzak-streak-stats.vercel.app/?user=x414i&theme=blue_navy&hide_border=false" />
 </div>
 
 ## 🏆 GitHub Trophies
