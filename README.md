@@ -1,4 +1,3 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/617637/87246274-abf8f680-c44c-11ea-92e9-d1ee74ba5984.gif"></p>
 
 
 # 💫 About Me:
@@ -16,6 +15,8 @@ JavaScript, freelance web projects, UI/UX, and WordPress.
 
 ### 📫 How to reach me  
 muhammedbaled20@gmail.com
+
+<p align="center"><img src="https://user-images.githubusercontent.com/617637/87246274-abf8f680-c44c-11ea-92e9-d1ee74ba5984.gif"></p>
 
 
 ## 🌐 Socials:
