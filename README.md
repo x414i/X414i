@@ -1,3 +1,6 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/617637/87246274-abf8f680-c44c-11ea-92e9-d1ee74ba5984.gif"></p>
+
+
 # 💫 About Me:
 ### 🔭 I’m currently working on  
 A shipping platform that enables users to send goods from multiple cities around the world to Libya.  
@@ -13,6 +16,7 @@ JavaScript, freelance web projects, UI/UX, and WordPress.
 
 ### 📫 How to reach me  
 muhammedbaled20@gmail.com
+
 
 ## 🌐 Socials:
 
@@ -36,8 +40,6 @@ muhammedbaled20@gmail.com
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=x414i&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=x414i&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ---
